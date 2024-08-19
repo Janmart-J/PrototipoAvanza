@@ -1,0 +1,75 @@
+# Prototipo Avanza
+
+## Descripción
+
+**Prototipo Avanza** es una aplicación web que busca tener un impacto positivo en la motivación de los trabajadores, así como en su crecimiento profesional. Diseñada para facilitar la gestión de beneficios y el registro de cursos y certificaciones. El sistema permite a los usuarios registrarse, iniciar sesión, y gestionar recompensas como días libres, cursos, y compensaciones monetarias a través de canjes. Además, incluye un boletín informativo y actividades en las que inscribirse.
+
+## Características
+
+- **Interfaz de Usuario Amigable**: Diseño intuitivo y responsivo para una navegación fácil.
+- **Modal de Inicio de Sesión y Registro**: Permite a los usuarios iniciar sesión o registrarse en la plataforma.
+- **Beneficios y Recompensas**: Opciones para canjear días libres, cursos, y compensaciones monetarias.
+- **Boletín Informativo y Webinar**: Ofrece un boletín informativo y acceso a un webinar gratuito sobre bienestar en el trabajo remoto.
+- **Preguntas Frecuentes**: Sección dedicada a responder preguntas comunes de los usuarios.
+
+## Tecnologías
+
+- **HTML**: Estructura del contenido.
+- **CSS**: Estilización y diseño responsivo.
+- **JavaScript**: Funcionalidades dinámicas y gestión de eventos.
+- **PHP**: Manejo del backend para el registro y login de usuarios.
+
+## Instalación
+
+Para ejecutar este proyecto localmente, sigue estos pasos:
+
+1. **Clona el repositorio**:
+    ```bash
+    git clone https://github.com/usuario/repositorio.git
+    ```
+
+2. **Navega al directorio del proyecto**:
+    ```bash
+    cd nombre-del-proyecto
+    ```
+
+3. **Instala las dependencias** (si es necesario):
+    ```bash
+    # No hay dependencias adicionales para este proyecto específico
+    ```
+
+4. **Configura el entorno de backend**:
+    - Asegúrate de tener un servidor web compatible con PHP, como Apache o Nginx.
+    - Coloca los archivos PHP (`login.php`, `register.php`, etc.) en el directorio de tu servidor web.
+
+## Uso
+
+1. **Abrir el Proyecto**:
+    - Abre el archivo `index.html` en tu navegador para ver la aplicación en funcionamiento.
+
+2. **Registrar un Nuevo Usuario**:
+    - Haz clic en "Regístrate" para abrir el formulario de registro y completar la información requerida.
+
+3. **Iniciar Sesión**:
+    - Haz clic en "Iniciar sesión" para acceder a la plataforma.
+
+4. **Gestionar Beneficios**:
+    - Navega a la sección de beneficios disponibles para canjear días libres, cursos o recibir compensaciones.
+
+5. **Participar en el Webinar(Opcional)**:
+    - Consulta el boletín informativo para unirte al webinar gratuito.
+
+## Contribución
+
+¡Las contribuciones son bienvenidas! Si deseas colaborar en el proyecto, sigue estos pasos:
+
+1. **Haz un fork del repositorio**.
+2. **Crea una nueva rama para tus cambios**:
+    ```bash
+    git checkout -b nombre-de-tu-rama
+    ```
+3. **Realiza tus cambios y haz commit**:
+    ```bash
+    git commit -am 'Añadir nueva característica'
+    ```
+4. **Envía un pull request**.
